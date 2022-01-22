@@ -46,5 +46,20 @@ https://www.kaggle.com/c/store-sales-time-series-forecasting
 -------
 
 
+## Time Series Analysis
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvSVgVCsPWLr961id7kRv1wt
 
+Derek Banas
+
+
+-------
+
+## Python for Finance
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvTHOWIEBAl-YOr_FC8lRmWX
+
+Derek Banas
+
+
+-------
+-------
 
