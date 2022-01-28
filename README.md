@@ -51,6 +51,11 @@ https://www.youtube.com/playlist?list=PLGLfVvz_LVvSVgVCsPWLr961id7kRv1wt
 
 Derek Banas
 
+In this video I'll show you the basics of Tim Series Analysis. 
+
+I'll cover all the libraries you need, Pandas Datetime Object, Resampling, File I/O, Plotting, Creating Moving Averages, Shifting Time Data and more. 
+
+Files on GitHub : https://github.com/derekbanas/TimeSeriesAnalysis
 
 -------
 
