@@ -35,6 +35,7 @@ Apply ML to any forecasting task with these four strategies.
 -------
 -------
 
+## GettingStarted Prediction Competition
 
 ## Store Sales - Time Series Forecasting
 https://www.kaggle.com/c/store-sales-time-series-forecasting
